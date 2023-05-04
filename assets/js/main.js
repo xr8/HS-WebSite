@@ -164,6 +164,8 @@
     }
   });
 
+
+
   /*---------- 05. Scroll To Top ----------*/
   $(scrollToTopBtn).each(function () {
     $(this).on("click", function (e) {
@@ -177,6 +179,7 @@
       return false;
     });
   });
+  //carrusell
 
   /*---------- 06. Set Background Image ----------*/
   $.fn.vsBgSetup = function () {
