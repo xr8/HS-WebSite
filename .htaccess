@@ -1,4 +1,5 @@
 #####   Enable a RewriteEngine Policy     #####
+##### https://hairlessskin.com/  #####
 	RewriteEngine On
 	RewriteCond %{HTTP_HOST} ^hairlessskin\.mx [NC]
 	RewriteCond %{SERVER_PORT} 80
