@@ -95,7 +95,6 @@
 		height: $item-size;
 		line-height: $item-size;
 		margin: -($item-size * 0.5);
-
 		$angle: math.div($angleCount, $item-count);
 		$rot: $rotCount;
 
