@@ -73,9 +73,9 @@ Version: 1.0.0
 /*------------------- 1.3. Variable-------------------*/
 :root {
   --body-bg: #ffffff;
-  --theme-color: #386641;
+  --theme-color: #34113F;
   --body-color: #555555;
-  --title-color: #BC4749;
+  --title-color: #CF1259;
   --secondary-color: #fde5d8;
   --smoke-color: #EFF1F5;
   --light-color: #f8f9fa;
@@ -83,7 +83,7 @@ Version: 1.0.0
   --white-color: #ffffff;
   --yellow-color: #fec624;
   --success-color: #28a745;
-  --error-color: #dc3545;
+  --error-color: #0A81D1;
   --border-color: #e7e5e5;
   --title-font: "Marcellus", serif;
   --body-font: "DM Sans", sans-serif;
