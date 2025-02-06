@@ -73,9 +73,8 @@ Version: 1.0.0
 /*------------------- 1.3. Variable-------------------*/
 :root {
   --body-bg: #ffffff;
-  --theme-color: #34113F;
   --body-color: #555555;
-  --title-color: #CF1259;
+  --title-color: #FF1654;
   --secondary-color: #fde5d8;
   --smoke-color: #EFF1F5;
   --light-color: #f8f9fa;
